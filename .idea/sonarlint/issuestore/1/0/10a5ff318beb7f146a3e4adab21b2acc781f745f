@@ -1,0 +1,17 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8šÓ¸°¯1
+g	java:S112C"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8›Ó¸°¯1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÍÙâûÿÿÿÿ8œÓ¸°¯1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ÍÙâûÿÿÿÿ8¸Ó¸°¯1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(­Ñ‡˜8¾Ó¸°¯1
+g
+java:S3252$"KUse static access with "org.bukkit.plugin.java.JavaPlugin" for "getPlugin".(ºûÏC8¿Ó¸°¯1
+X	java:S125)"<This block of commented-out lines of code should be removed.(æÿÛô8ÀÓ¸°¯1
+g
+java:S3252/"KUse static access with "org.bukkit.plugin.java.JavaPlugin" for "getPlugin".(Äİ+8ÁÓ¸°¯1
+g
+java:S32524"KUse static access with "org.bukkit.plugin.java.JavaPlugin" for "getPlugin".(Äİ+8ÂÓ¸°¯1
+m
+java:S32529"KUse static access with "org.bukkit.plugin.java.JavaPlugin" for "getPlugin".(¾´”Áüÿÿÿÿ8ÃÓ¸°¯1

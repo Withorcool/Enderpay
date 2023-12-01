@@ -1,0 +1,20 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(–‹ˆøÿÿÿÿ
+e
+java:S2095C"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÂŸ
+^
+java:S2095$"HUse try-with-resources or close this "Connection" in a "finally" clause.(§Œ‚¼
+^
+java:S2095?"HUse try-with-resources or close this "Connection" in a "finally" clause.(§Œ‚¼
+j
+java:S2095,"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ô¾Âşÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(–‹ˆøÿÿÿÿ
+Q	java:S125	"<This block of commented-out lines of code should be removed.(Áíğù
+V	java:S125"<This block of commented-out lines of code should be removed.(ÒÉùÿÿÿÿ
+L
+java:S6437$"6Revoke and change this password, as it is compromised.(§Œ‚¼
+L
+java:S6437?"6Revoke and change this password, as it is compromised.(§Œ‚¼
+F
+java:S1128"+Remove this unused import 'java.util.UUID'.(ÀãÄ£úÿÿÿÿ

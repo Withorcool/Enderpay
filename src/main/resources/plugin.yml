@@ -1,0 +1,10 @@
+name: enderpay
+version: '${project.version}'
+main: com.withorcc.enderpay.Enderpay
+api-version: '1.20'
+load: STARTUP
+commands:
+  bank:
+    description: Your description
+    usage: /<command>
+    permission: bank.cmd

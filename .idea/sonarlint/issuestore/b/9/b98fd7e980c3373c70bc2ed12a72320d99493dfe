@@ -1,0 +1,11 @@
+
+V
+java:S2259Š"?A "NullPointerException" could be thrown; "o" is nullable here.(ø‡æ
+g
+java:S1206ˆ"PThis class overrides "equals()" and should therefore also override "hashCode()".(»´òì
+R
+java:S4454ˆ";"equals" method parameters should not be marked "@NotNull".(»´òì
+M
+java:S1874Ø"1Remove this use of "getUnsafe"; it is deprecated.(¡¾„Şüÿÿÿÿ
+V
+java:S1854Ä":Remove this useless assignment to local variable "parent".(§¿‡°ùÿÿÿÿ

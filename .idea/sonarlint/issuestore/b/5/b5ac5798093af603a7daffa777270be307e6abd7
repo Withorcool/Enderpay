@@ -1,0 +1,26 @@
+
+q
+java:S1104"TMake enderpay a static final constant or non-public and provide accessors if needed.(˜éúË8èì¾³­1
+o
+java:S1104"RMake config a static final constant or non-public and provide accessors if needed.(Ñï·£8êì¾³­1
+K
+java:S1444".Make this "public static enderpay" field final(˜éúË8êì¾³­1
+S
+java:S2696"6Make the enclosing method "static" or remove this set.(ÈÙÌ´8„í¾³­1
+L	java:S106"+Replace this use of System.out by a logger.(¤åÙïúÿÿÿÿ8í¾³­1
+L	java:S106&"+Replace this use of System.out by a logger.(¤åÙïúÿÿÿÿ8”í¾³­1
+q
+java:S1128"ORemove this unused import 'com.fren_gor.ultimateAdvancementAPI.AdvancementTab'.(öÚõ©ıÿÿÿÿ8ù­Ç³­1
+t
+java:S1128"WRemove this unused import 'com.fren_gor.ultimateAdvancementAPI.UltimateAdvancementAPI'.(ùš¸æ8ù­Ç³­1
+y
+java:S1128"\Remove this unused import 'com.fren_gor.ultimateAdvancementAPI.advancement.RootAdvancement'.(šğ“8ú­Ç³­1
+†
+java:S1128"iRemove this unused import 'com.fren_gor.ultimateAdvancementAPI.advancement.display.AdvancementFrameType'.(Ã¨İğ8ú­Ç³­1
+€
+java:S1128"cRemove this unused import 'com.fren_gor.ultimateAdvancementAPI.events.PlayerLoadingCompletedEvent'.(Ã¿ÔŠ8ú­Ç³­1
+R
+java:S1128	"0Remove this unused import 'org.bukkit.Material'.(ÜÎ¬©ùÿÿÿÿ8ú­Ç³­1
+h
+java:S1128
+"FRemove this unused import 'org.bukkit.advancement.AdvancementDisplay'.(ÂŒš‘úÿÿÿÿ8ú­Ç³­1
